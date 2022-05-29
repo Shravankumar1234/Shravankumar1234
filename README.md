@@ -2,13 +2,13 @@
 I'm Kurva Shravan Kumar here 👋
 
 ## About me
-- 😄 I'm a 23 y.o. <b>B.Tech (ME)</b> from GuruNanak Institution of , Kuppam. 
+- 😄 I'm a 23 y.o. <b>B.Tech (ME)</b> from GuruNanak Institution of Technical Campus, Rangareddy,Telangana. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
 - 🌱 I’m currently learning <b>MERN stack languages</b>
-- 🤔 All of my projects and details are available at https://chaithanyareddy.github.io/
-- 💬 Ask me about <b>React,Typescript, JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
-- 📫 How to reach me chaithanyareddy786@gmail.com
-- 📄 Know about my experiences https://drive.google.com/file/d/1zicJM5bluc8GVOXWm_jcn7enutGcYubX/view
+- 🤔 All of my projects and details are available at https://subtle-banoffee-c02662.netlify.app
+- 💬 Ask me about <b>React,JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
+- 📫 How to reach me shravanbhai9081@gmail.com
+- 📄 Know about my experiences https://drive.google.com/file/d/1Zp2DM9314FehXwdNtVItak9INJALFu33/view?usp=sharing
 
 
 ## Languages & Tech
