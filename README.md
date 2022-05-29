@@ -14,7 +14,7 @@ I'm Kurva Shravan Kumar here 👋
 ## Languages & Tech
 
 <p align='center'>
-    <img height="40" src="/images/html.png">&nbsp;&nbsp;
+    <img height="40" src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/css.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/javascript_2.png">&nbsp;&nbsp;
     <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSYXDgtUuX0KXITEzysyAq-gwLKRNalIEdUg&usqp=CAU">&nbsp;&nbsp;
