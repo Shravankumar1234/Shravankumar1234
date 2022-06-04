@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## 🙋‍♂️ About Me:
 
 - 🌱 I’m currently learning **Full-Stack Development**
-- 👨‍💻 Check out some of my works at [My Portfolio](https://cosmic-kitsune-c8633e.netlify.app//#clients)
+- 👨‍💻 Check out some of my works at [My Portfolio]( https://shravankumar1234.github.io/portfolio/)
 
 - 💬 Ask me about **React and JavaScript**
 
