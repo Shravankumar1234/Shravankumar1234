@@ -5,7 +5,7 @@ I'm Kurva Shravan Kumar here 👋
 - 😄 I'm a 23 y.o. <b>B.Tech (ME)</b> from GuruNanak Institution of Technical Campus, Rangareddy,Telangana. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
 - 🌱 I’m currently learning <b>MERN stack languages</b>
-- 🤔 All of my projects and details are available at https://subtle-banoffee-c02662.netlify.app
+- 🤔 All of my projects and details are available at https://cosmic-kitsune-c8633e.netlify.app/
 - 💬 Ask me about <b>React,JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
 - 📫 How to reach me shravanbhai9081@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/1Zp2DM9314FehXwdNtVItak9INJALFu33/view?usp=sharing
