@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:shravanbhai9081@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="www.linkedin.com/in/kurva-shravan-kumar-0793b821a" target="_blank">
+  <a href="https://www.linkedin.com/in/kurva-shravan-kumar-0793b821a/" target="_blank">
   <img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a target="_blank" href="https://cosmic-kitsune-c8633e.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
