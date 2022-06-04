@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/kurva-shravan-kumar-0793b821a/" target="_blank">
   <img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a target="_blank" href="https://cosmic-kitsune-c8633e.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+  <a target="_blank" href=" https://shravankumar1234.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 </div>
 
 
