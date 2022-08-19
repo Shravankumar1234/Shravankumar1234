@@ -4,7 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
 
 
-Self-motivated and creative full-stack developer with a specialization in MERN stack. Interested in building innovative and attractive websites. 
+A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills
+to build exciting and creative project. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.
  
 ## 🙋‍♂️ About Me:
 
