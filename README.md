@@ -3,6 +3,8 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
 
+
+Self-motivated and creative full-stack developer with a specialization in MERN stack. Interested in building innovative and attractive websites. 
  
 ## 🙋‍♂️ About Me:
 
