@@ -1,4 +1,4 @@
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravankumar1234&label=Profile%20views&color=0e75b6&style=flat" alt="shravan1234" /> </p>
 <h1 align="">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Kurva Shravan Kumar</h1>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
