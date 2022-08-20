@@ -12,7 +12,7 @@ to build exciting and creative project. I thrive on utilizing my peers’ and my
 - 🌱 I’m currently learning **Full-Stack Development**
 - 👨‍💻 Check out some of my works at [My Portfolio]( https://shravankumar1234.github.io/portfolio/)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **React,JavaScript,Redux,HTML,CSS**
 
 - 📫 Reach out to me at **shravanbhai9081@gmail.com**
 
