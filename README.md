@@ -1,7 +1,7 @@
  
 <h1 align="">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Kurva Shravan Kumar</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experience;Problem+Solver)](https://git.io/typing-svg)
 
 
 <h5>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills
