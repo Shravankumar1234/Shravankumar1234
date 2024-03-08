@@ -5,16 +5,16 @@
 
 
 <h5>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills
-to build exciting and creative project. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.<h5>
+to build exciting and creative projects. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.<h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravankumar1234&label=Profile%20views&color=0e75b6&style=flat" alt="shravan1234" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shravankumar1234" alt="Shravan kumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shravankumar1234" alt="Shravan Kumar" /></a> </p>
  
 ## 🙋‍♂️ About Me:
 
 - 🌱 I’m currently learning **Full-Stack Development**
 - 👨‍💻 Check out some of my works at [My Portfolio]( https://shravankumar1234.github.io/portfolio/)
 
-- 💬 Ask me about **React,JavaScript,Redux,HTML,CSS**
+- 💬 Ask me about **React, JavaScript, Redux, HTML, CSS, React Native, Node Js, Firebase,Android Studio,Xcode**
 
 - 📫 Reach out to me at **shravanbhai9081@gmail.com**
 
@@ -57,7 +57,7 @@ to build exciting and creative project. I thrive on utilizing my peers’ and my
 <br>
 <br>
 <div align="left">
-<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shravankumar1234&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+<img alt="Chiranjeevi Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shravankumar1234&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
   </div>
   
 ## 📫 How to reach me:
