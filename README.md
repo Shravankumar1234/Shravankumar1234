@@ -11,10 +11,10 @@ to build exciting and creative projects. I thrive on utilizing my peers’ and m
  
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Full-Stack Development**
-- 👨‍💻 Check out some of my works at [My Portfolio]( https://shravankumar1234.github.io/portfolio/)
+- 🌱 I’m currently working as **Full-Stack Developer**
+- 👨‍💻 Check out some of my works at [My Portfolio](https://shravankumar1234.github.io/portfolio/)
 
-- 💬 Ask me about **React, JavaScript, Redux, HTML, CSS, React Native, Node Js, Firebase, Android Studio, Xcode**
+- 💬 Ask me about **React Native, React, JavaScript, Redux, HTML, CSS,  Node Js, Firebase, Android Studio, Xcode**
 
 - 📫 Reach out to me at **shravanbhai9081@gmail.com**
 
