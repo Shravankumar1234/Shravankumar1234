@@ -16,7 +16,7 @@ to build exciting and creative projects. I thrive on utilizing my peers’ and m
 
 - 💬 Ask me about **React Native, React, JavaScript, Redux, HTML, CSS,  Node Js, Firebase, Android Studio, Xcode**
 
-- 📫 Reach out to me at **shravanbhai9081@gmail.com**
+- 📫 Reach out to me at **shravan0698@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs :)**
 
