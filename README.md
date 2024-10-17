@@ -63,7 +63,7 @@ to build exciting and creative projects. I thrive on utilizing my peers’ and m
 ## 📫 How to reach me:
 
 <div align="left">
-  <a href="mailto:shravanbhai9081@gmail.com" target="_blank">
+  <a href="mailto:shravan0698@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/kurva-shravan-kumar-0793b821a/" target="_blank">
