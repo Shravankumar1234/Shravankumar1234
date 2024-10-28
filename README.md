@@ -41,7 +41,9 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 </div>
 
 
- 
+ <div align="left">
+<img alt="Shravan kumar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=github" />
+  </div>
 
 <div align="left">
 <img alt="Shravan Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shravankumar1234&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
@@ -55,9 +57,7 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
-<div align="left">
-<img alt="Shravan kumar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=github" />
-  </div>
+
   
 ## 📫 How to reach me:
 
