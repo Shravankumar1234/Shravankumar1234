@@ -4,8 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;1500%2B+Hours+Of+Coding+Experience;Problem+Solver)](https://git.io/typing-svg)
 
 
-<h5>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills
-to build exciting and creative projects. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.<h5>
+<h5>A highly motivated Software Engineer with about 2 years of valuable experience specializing in Frontend Development. Proficient
+in an extensive array of technologies, including Javascript, React JS, React Native, Redux, Node JS, Express Js, and MongoDB.<h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravankumar1234&label=Profile%20views&color=0e75b6&style=flat" alt="shravan1234" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shravankumar1234" alt="Shravan Kumar" /></a> </p>
  
@@ -40,8 +40,6 @@ to build exciting and creative projects. I thrive on utilizing my peers’ and m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar's GitHub stats" />
 </div>
 
-
- 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <div align="left">
