@@ -35,7 +35,7 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shravankumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shravankumar1234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  
 <p align='center'>
-  <img  alt="shravankumar1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shravankumar1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img  alt="shravankumar1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shravankumar1234&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar's GitHub stats" />
@@ -46,13 +46,11 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 
 ## 📈 GitHub Analytics:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="shravankumar1234's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=12&layout=pie" alt="shravankumar1234's GitHub stats" />
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
- 
 
-  
 ## 📫 How to reach me:
 
 <div align="left">
