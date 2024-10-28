@@ -37,7 +37,17 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 </p>
 
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar's GitHub stats" />
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook" />
+</picture>
 </div>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
