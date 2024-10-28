@@ -59,13 +59,13 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 ## 📈 GitHub Analytics:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar1234's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar1234's GitHub stats" />
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
 <div align="left">
-<img alt="Chiranjeevi Thapliyal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=github" />
+<img alt="Shravan kumar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=github" />
   </div>
   
 ## 📫 How to reach me:
