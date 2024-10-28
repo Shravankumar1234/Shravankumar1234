@@ -35,7 +35,10 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 <p align='center'>
   <img  alt="shravankumar1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shravankumar1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankumar1234&langs_count=8&theme=algolia" alt="shravankumar's GitHub stats" />
 
+</div>
 
 
  
