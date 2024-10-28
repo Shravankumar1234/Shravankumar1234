@@ -55,7 +55,7 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 <br>
 <br>
 <div align="left">
-<img alt="Chiranjeevi Thapliyal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=dracula" />
+<img alt="Chiranjeevi Thapliyal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravankumar1234&theme=github-compact" />
   </div>
   
 ## 📫 How to reach me:
