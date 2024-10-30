@@ -11,7 +11,7 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
  
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently working as **Full-Stack Developer**
+- 🌱 I’m currently working as **Frontend Developer**
 - 👨‍💻 Check out some of my works at [My Portfolio](https://shravankumar1234.github.io/portfolio/)
 
 - 💬 Ask me about **React Native, React, JavaScript, Redux, HTML, CSS,  Node Js, Firebase, Android Studio, Xcode**
