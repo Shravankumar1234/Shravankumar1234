@@ -15,6 +15,8 @@ in an extensive array of technologies, including Javascript, React JS, React Nat
 - 👨‍💻 Check out some of my works at [My Portfolio](https://shravankumar1234.github.io/portfolio/)
 
 - 💬 Ask me about **React Native, React, JavaScript, Redux, HTML, CSS,  Node Js, Firebase, Android Studio, Xcode**
+  
+- Download Resume [Resume](https://drive.google.com/file/d/1Vt8NQ3d1eUQCRcn7IQB-hqzpYwzXNGGP/view?usp=sharing)
 
 - 📫 Reach out to me at **shravan0698@gmail.com**
 
